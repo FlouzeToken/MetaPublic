@@ -1,0 +1,11 @@
+   {
+      "chainId": 101,
+      "address": "Gu4gySninrBJv51mBwuRu3YWuZXw8dsei2YQdwTia9L5",
+      "symbol": "PON",
+      "name": "Ponion",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gu4gySninrBJv51mBwuRu3YWuZXw8dsei2YQdwTia9L5/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
